@@ -2,7 +2,7 @@
 yet another cli to access openai chat and image generator from bash
 
 
-# Usage:
+# Usage
 
 ```
 openai "a chat prompt"
@@ -37,7 +37,12 @@ and make it executable:
 chmod +x openai
 ```
 
-This command expects there is:
+## Dependencies
+
+* jq
+* curl
+
+This command expects there is a line:
 
 ```
 export OPENAI_KEY=xxxxxxxxxxxxx
