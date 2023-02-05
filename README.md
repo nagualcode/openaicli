@@ -27,5 +27,9 @@ openai
 --> Enters a loop to keep generating chat or images. When inside the loop the image gets downloaded to ~/Downloads and opened with preview (macOS)
 
 This command expects there is:
-export OPENAI_KEY
+
+```
+export OPENAI_KEY=xxxxxxxxxxxxx
+```
+
 in your .bash_profile.
