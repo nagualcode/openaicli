@@ -50,4 +50,3 @@ export OPENAI_KEY=xxxxxxxxxxxxx
 
 in your .bash_profile.
 
-Also the preview image after downloading should only work in macOS
